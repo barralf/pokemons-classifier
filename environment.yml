@@ -1,0 +1,12 @@
+name: pokemons-classifier
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - time
+  - scikit-learn
+  - xgboost

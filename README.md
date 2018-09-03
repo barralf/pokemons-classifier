@@ -1,4 +1,6 @@
 # Data Catch’em All « Battle Prediction »
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/barralf/pokemons-classifier/master)
+
 _**Objective:**_ predict battle result in the Pokemon video game using simple machine learning models.
 
 _**Data:**_ features description for each pokemon and 50000 one-to-one pokemon battle results to learn from
